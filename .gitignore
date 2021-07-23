@@ -1,0 +1,7 @@
+node_modules/
+.cache
+dist/
+coverage/
+.env
+# Local Netlify folder
+.netlify
