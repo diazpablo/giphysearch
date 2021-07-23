@@ -6,6 +6,9 @@ You can find a working testing environment on:
 See Demo
 </a>
 
+## Setup
+
+### `npm install`
 
 ## Available Scripts
 
